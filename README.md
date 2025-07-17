@@ -1,2 +1,2 @@
-# RealFusion: Rethinking Infrared and Visible Image Fusion from a Modality-Invariant Perspective
+# RealFusion: Rethinking Infrared and Visible Image Fusion from A Modality-Invariant Perspective
 Code will be available soon.
